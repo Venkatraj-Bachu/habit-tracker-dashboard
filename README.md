@@ -21,7 +21,8 @@ Thankyou Pixe.La(https://pixe.la/) for providing the API service and the well do
   ```
 
 3. Install the required libraries using pip.
-  pip install requests
+   ```
+   pip install requests
 
 ### Usage
 1. Set your username and user token in the script:
@@ -33,9 +34,10 @@ Thankyou Pixe.La(https://pixe.la/) for providing the API service and the well do
 3. Uncomment the specific method calls for the actions you want to perform.
 
 4. Run the script:
+   ```
    python pixela-interaction.py
 
-5. Check the responses for each action to ensure they were successful.
+6. Check the responses for each action to ensure they were successful.
 
 ### Edits required for your code
 You should replace `"your_username"` and `"your_user_token"` in the script with your actual Pixela username and user token. This README file provides an introduction to the project, installation instructions, usage guidelines, contribution guidelines, license information, and acknowledgments. Users and contributors can follow these instructions to understand, use, and contribute to your Pixela API interaction script.
