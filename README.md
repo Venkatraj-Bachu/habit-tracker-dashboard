@@ -13,11 +13,11 @@ Thankyou Pixe.La(https://pixe.la/) for providing the API service and the well do
 1. Clone this repository to your local machine.
 
    ```bash
-   git clone https://github.com/yourusername/pixela-api-interaction.git
+   git clone https://github.com/Venkatraj-Bachu/pixela-api-interaction.git
 
 2. Change your working directory to the project folder.
   ```bash
-   cd pixela-api-interaction
+   cd habit-tracker-dashboard
   ```
 
 3. Install the required libraries using pip.
@@ -35,7 +35,7 @@ Thankyou Pixe.La(https://pixe.la/) for providing the API service and the well do
 
 4. Run the script:
    ```
-   python pixela-interaction.py
+   python main.py
 
 6. Check the responses for each action to ensure they were successful.
 
